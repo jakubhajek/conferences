@@ -7,5 +7,5 @@
 1. [2019-06: JustDevops - Container Orchestration with Traefik and Docker Swarm](2019-justdevops)
 1. [2019-05: Internal - Container Orchestration for Logsearch](2019-05-09-Container-orchestration-for-Logsearch)
 1. [2019-01: Internal - Application of Elastic Stack](2019-01-14-Application-of_Elastic-stack)
-1. [2018-08: Internal - Docker Basisc](2018-080-17-docker-basics)
+1. [2018-08: Internal - Docker Basisc](2018-08-17-docker-basics)
 1. [2018-06: Itcon - Od eksperta IT do Przedsiębiorcy](2018-itcon-meetup)
