@@ -1,15 +1,13 @@
-# Container orchestration with Traefik and Docker Swarm 
+# Container orchestration with Traefik and Docker Swarm
 
-## Containous Online Meetup, 
+## Containous Online Meetup,
 
-[https://justdevops.org/(https://justdevops.org/)
-
-### Slides 
+### Slides
 
 ### Video
 
 [Recorded session](https://youtu.be/ga3cv0RHxQg)
 
-### Source code 
+### Source code
 
 [Traefik with Consul and Docker Swarm](https://github.com/jakubhajek/traefik-consul-swarm)

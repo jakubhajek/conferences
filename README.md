@@ -1,5 +1,6 @@
 # Here is a log of my talks spoken during various conferences, meetups and internal presentations and workshops
 
+1. [2020-01: Online Meetup - Container Orchestration with Traefik 2.x](2020-traefik-online-meetup)
 1. [2019-11: DevOpsDaysWarsaw: Docker Logging and analysing with Elastic Stack](2019-devopsdays)
 1. [2019-11: Internal - Error Alerting System](2019-11-eas)
 1. [2019-10: DevOps Congress - Container orchestration with Docker Swarm and Traefik 2.0](2019-devops-congress)
